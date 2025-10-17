@@ -199,17 +199,3 @@ Pour faire évoluer le projet (ajouter une nouvelle fonctionnalité, modifier un
 - **Archiver les itérations** : conserve les anciennes versions des specs/plans pour pouvoir revenir ou comparer.
 
 ---
-
-[Agent Constitution](Spec-kit-ation%2028ad2a1120b680c0af69f9cf79d3d623/Agent%20Constitution%2028dd2a1120b680ee8a16ec34dcb74090.md) 
-
-[Agent Spécification](Spec-kit-ation%2028ad2a1120b680c0af69f9cf79d3d623/Agent%20Sp%C3%A9cification%2028dd2a1120b6806680f5d8d8f03c1486.md) 
-
-[Agent Plan](Spec-kit-ation%2028ad2a1120b680c0af69f9cf79d3d623/Agent%20Plan%2028dd2a1120b680df854aec0ff3b5ffcd.md)
-
-[Agent Tâche](Spec-kit-ation%2028ad2a1120b680c0af69f9cf79d3d623/Agent%20T%C3%A2che%2028dd2a1120b680c98da2d26ed67658d8.md)
-
-[Agent Clarification](Spec-kit-ation%2028ad2a1120b680c0af69f9cf79d3d623/Agent%20Clarification%2028ed2a1120b6804b9e99dbf9a42d2d96.md) 
-
-[Agent Checklist](Spec-kit-ation%2028ad2a1120b680c0af69f9cf79d3d623/Agent%20Checklist%2028ed2a1120b68015834cfaff2f22d175.md)
-
-[Agent Analyse](Spec-kit-ation%2028ad2a1120b680c0af69f9cf79d3d623/Agent%20Analyse%2028ed2a1120b680d08fbdc3ba02d76420.md)
