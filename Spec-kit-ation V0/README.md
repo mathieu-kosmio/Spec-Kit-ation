@@ -2,7 +2,7 @@
 
 **Manuel d’utilisation des agents** (Constitution, Spécification, Planification, Tâches, Clarification, Checklist, Analyse) pour piloter un projet via ChatGPT selon la méthode Spec-Driven Development que tu es en train de mettre en place.
 
-![Cheval pixelisé sur rouleau parchemin.png](media/speck-kit-ation.png)
+![Cheval pixelisé sur rouleau parchemin](media/spec-kit-ation.png)
 
 ---
 
@@ -199,4 +199,3 @@ Pour faire évoluer le projet (ajouter une nouvelle fonctionnalité, modifier un
 - **Utilisation de la checklist / analyse comme garde-fou** : ne saute jamais les vérifications de qualité.
 - **Dialogues interactifs** : profite du mode interactif des agents pour affiner, corriger, poser des questions quand quelque chose te semble flou.
 - **Archiver les itérations** : conserve les anciennes versions des specs/plans pour pouvoir revenir ou comparer.
-
