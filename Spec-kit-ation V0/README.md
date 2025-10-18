@@ -1,6 +1,8 @@
-# Spec-kit-ation
+# Spec-kit-ation V0.1
 
-Voici un **manuel d’utilisation des agents** (Constitution, Spécification, Planification, Tâches, Clarification, Checklist, Analyse) pour piloter un projet via ChatGPT selon la méthode Spec-Driven Development que tu es en train de mettre en place. Tu pourras en faire une version “README” ou guide interne du projet.
+**Manuel d’utilisation des agents** (Constitution, Spécification, Planification, Tâches, Clarification, Checklist, Analyse) pour piloter un projet via ChatGPT selon la méthode Spec-Driven Development que tu es en train de mettre en place.
+
+![Cheval pixelisé sur rouleau parchemin.png](Spec-kit-ation%20V0%201%2028ad2a1120b680c0af69f9cf79d3d623/Cheval_pixelise_sur_rouleau_parchemin.png)
 
 ---
 
@@ -15,7 +17,7 @@ Voici le **cycle de vie typique** d’un projet avec tes agents :
 5. **Tâches** — découper le plan en tickets / tâches actionnables avec critères, estimations, dépendances.
 6. **Checklist** — générer un audit de conformité / qualité pour chacun des artefacts produits.
 7. **Analyse** — croiser les artefacts pour détecter incohérences, redondances, manques et proposer des ajustements.
-8. (Optionnel dans ta V1) **Implémentation / Export / Génération de code** — consommer les tâches pour produire du squelette de code ou artefacts livrables.
+8. (Prochaine version) **Implémentation / Export / Génération de code** — consommer les tâches pour produire du squelette de code ou artefacts livrables.
 9. **Itérations / évolution** — à chaque nouvelle spécification (fonctionnalité ou modification du backlog) : relancer le pipeline (Spécification → Clarification → Plan → Tâches → Checklist → Analyse), puis implémenter.
 
 Chacun de ces agents produit un document structuré (Markdown ou format convenu) que tu stockes dans le “dossier projet” dans ChatGPT (par upload / contexte), et qui sera exporté pour être utilisé par les développeurs dans leur IDE.
@@ -198,4 +200,3 @@ Pour faire évoluer le projet (ajouter une nouvelle fonctionnalité, modifier un
 - **Dialogues interactifs** : profite du mode interactif des agents pour affiner, corriger, poser des questions quand quelque chose te semble flou.
 - **Archiver les itérations** : conserve les anciennes versions des specs/plans pour pouvoir revenir ou comparer.
 
----
