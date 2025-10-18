@@ -101,6 +101,6 @@ Le prompt maître de Clarification (que tu as défini) pilotera les interactions
 
 ---
 
-[prompt.demande.clarification](Agent%20Clarification%2028ed2a1120b6804b9e99dbf9a42d2d96/prompt%20demande%20clarification%2028ed2a1120b68051b6bfd2ea32e4c7bf.md) 
+[prompt.demande.clarification](prompt%20demande%20clarification.md) 
 
-[Prompt Agent](Agent%20Clarification%2028ed2a1120b6804b9e99dbf9a42d2d96/Prompt%20Agent%2028ed2a1120b680c3b079fd905e5f0486.md)
+[Prompt Agent](Prompt%20Agent.md)

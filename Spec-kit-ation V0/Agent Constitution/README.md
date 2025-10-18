@@ -100,8 +100,8 @@ Avec cette constitution, on s’assure que les choix futurs (architecture, fonct
 
 ---
 
-[Prompt.demande.constitution](Agent%20Constitution%2028dd2a1120b680ee8a16ec34dcb74090/Prompt%20demande%20constitution%2028dd2a1120b680c1b016c75d17e311f0.md)
+[Prompt.demande.constitution](Prompt%20demande%20constitution.md)
 
-[`template.constitution`](Agent%20Constitution%2028dd2a1120b680ee8a16ec34dcb74090/template%20constitution%2028dd2a1120b680ae92a4eff853c2306d.md)
+[`template.constitution`](template%20constitution.md)
 
-[Prompt Agent](Agent%20Constitution%2028dd2a1120b680ee8a16ec34dcb74090/Prompt%20Agent%2028dd2a1120b680b19936ec1f4376760b.md)
+[Prompt Agent](Prompt%20Agent.md)

@@ -106,8 +106,8 @@ Elle déclenche l’agent Tâches selon le prompt maître qui orchestre le proce
 
 ---
 
-[template.tâche](Agent%20T%C3%A2che%2028dd2a1120b680c98da2d26ed67658d8/template%20t%C3%A2che%2028dd2a1120b68016a2fce327a24886cc.md) 
+[template.tâche](template%20t%C3%A2che.md) 
 
-[prompt.demande.tâche](Agent%20T%C3%A2che%2028dd2a1120b680c98da2d26ed67658d8/prompt%20demande%20t%C3%A2che%2028dd2a1120b6802f9c5ffedaf12ede07.md) 
+[prompt.demande.tâche](prompt%20demande%20t%C3%A2che.md) 
 
-[Prompt Agent](Agent%20T%C3%A2che%2028dd2a1120b680c98da2d26ed67658d8/Prompt%20Agent%2028dd2a1120b6803cb22edda43b0ecb33.md)
+[Prompt Agent](Prompt%20Agent.md)

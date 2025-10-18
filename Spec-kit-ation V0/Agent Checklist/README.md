@@ -100,6 +100,6 @@ Le prompt maître de l’agent (celui que tu as défini) déclenchera une série
 
 ---
 
-[prompt.demande.checklist.md](Agent%20Checklist%2028ed2a1120b68015834cfaff2f22d175/prompt%20demande%20checklist%20md%2028ed2a1120b68038bd90c701342b0ba8.md) 
+[prompt.demande.checklist.md](prompt%20demande%20checklist%20md.md) 
 
-[Prompt Agent](Agent%20Checklist%2028ed2a1120b68015834cfaff2f22d175/Prompt%20Agent%2028ed2a1120b68019b245d59fbd152ae8.md)
+[Prompt Agent](Prompt%20Agent.md)

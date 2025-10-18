@@ -110,6 +110,6 @@ Le prompt maître (défini précédemment) pilotera l’agent pour interroger, a
 
 ---
 
-[prompt.demande.analyse](Agent%20Analyse%2028ed2a1120b680d08fbdc3ba02d76420/prompt%20demande%20analyse%2028ed2a1120b6806086faeed3604a7f06.md) 
+[prompt.demande.analyse](prompt%20demande%20analyse.md) 
 
-[Prompt Agent](Agent%20Analyse%2028ed2a1120b680d08fbdc3ba02d76420/Prompt%20Agent%2028ed2a1120b6800f84c3d882cd438d9f.md)
+[Prompt Agent](Prompt%20Agent.md)

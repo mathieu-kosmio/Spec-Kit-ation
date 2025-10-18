@@ -102,8 +102,8 @@ Le prompt maître du Plan (que tu as défini) déclenchera le processus de dialo
 
 ---
 
-[template.plan](Agent%20Plan%2028dd2a1120b680df854aec0ff3b5ffcd/template%20plan%2028dd2a1120b680a1b366efccb676fea9.md) 
+[template.plan](template%20plan.md) 
 
-[prompt.demande.plan.md](Agent%20Plan%2028dd2a1120b680df854aec0ff3b5ffcd/prompt%20demande%20plan%20md%2028dd2a1120b68076b8d9f80b30856d33.md) 
+[prompt.demande.plan.md](prompt%20demande%20plan%20md.md) 
 
-[Prompt Agent](Agent%20Plan%2028dd2a1120b680df854aec0ff3b5ffcd/Prompt%20Agent%2028dd2a1120b68015b257cd09764c5482.md)
+[Prompt Agent](Prompt%20Agent.md)

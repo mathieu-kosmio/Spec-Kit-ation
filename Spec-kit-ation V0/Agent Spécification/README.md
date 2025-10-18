@@ -103,8 +103,8 @@ Le prompt maître de l’agent déclenchera le dialogue de collecte de données 
 
 ---
 
-[template.specification](Agent%20Sp%C3%A9cification%2028dd2a1120b6806680f5d8d8f03c1486/template%20specification%2028dd2a1120b680f8a599c3bd11089651.md)
+[template.specification](template%20specification.md)
 
-[prompt.demande.spécification](Agent%20Sp%C3%A9cification%2028dd2a1120b6806680f5d8d8f03c1486/prompt%20demande%20sp%C3%A9cification%2028dd2a1120b680bca679ff8f99a45812.md)
+[prompt.demande.spécification](prompt%20demande%20sp%C3%A9cification.md)
 
-[Prompt Agent](Agent%20Sp%C3%A9cification%2028dd2a1120b6806680f5d8d8f03c1486/Prompt%20Agent%2028dd2a1120b6806ba3cbfc645385adc9.md)
+[Prompt Agent](Prompt%20Agent.md)
